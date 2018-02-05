@@ -10,11 +10,11 @@ import (
 	"regexp"
 
 	"github.com/pkg/errors"
-	"github.com/rancher/norman/types"
+	"github.com/rawmind0/norman/types"
 )
 
 func (a *APIOperations) setupRequest(req *http.Request) {
-	req.SetBasicAuth(a.Opts.AccessKey, a.Opts.SecretKey)
+	req.Header.Add("Authorization", a.Opts.getAuthHeader())
 }
 
 func (a *APIOperations) DoDelete(url string) error {

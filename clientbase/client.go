@@ -3,7 +3,7 @@ package clientbase
 import (
 	"net/http"
 
-	"github.com/rancher/norman/types"
+	"github.com/rawmind0/norman/types"
 )
 
 type APIBaseClient struct {
