@@ -3,7 +3,7 @@ package handler
 import (
 	"net/http"
 
-	"github.com/rancher/norman/types"
+	"github.com/rawmind0/norman/types"
 )
 
 func DeleteHandler(request *types.APIContext, next types.RequestHandler) error {

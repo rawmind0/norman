@@ -3,8 +3,8 @@ package builtin
 import (
 	"net/http"
 
-	"github.com/rancher/norman/store/schema"
-	"github.com/rancher/norman/types"
+	"github.com/rawmind0/norman/store/schema"
+	"github.com/rawmind0/norman/types"
 )
 
 var (

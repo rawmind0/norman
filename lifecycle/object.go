@@ -3,8 +3,8 @@ package lifecycle
 import (
 	"reflect"
 
-	"github.com/rancher/norman/clientbase"
-	"github.com/rancher/norman/types/slice"
+	"github.com/rawmind0/norman/clientbase"
+	"github.com/rawmind0/norman/types/slice"
 	"k8s.io/apimachinery/pkg/api/meta"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 	"k8s.io/apimachinery/pkg/runtime"

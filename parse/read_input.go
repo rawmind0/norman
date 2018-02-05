@@ -6,7 +6,7 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/rancher/norman/httperror"
+	"github.com/rawmind0/norman/httperror"
 )
 
 const reqMaxSize = (2 * 1 << 20) + 1

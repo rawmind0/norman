@@ -7,8 +7,8 @@ import (
 	"time"
 
 	"github.com/juju/ratelimit"
-	"github.com/rancher/norman/clientbase"
-	"github.com/rancher/norman/types"
+	"github.com/rawmind0/norman/clientbase"
+	"github.com/rawmind0/norman/types"
 	"github.com/sirupsen/logrus"
 	utilruntime "k8s.io/apimachinery/pkg/util/runtime"
 	"k8s.io/apimachinery/pkg/util/wait"

@@ -1,8 +1,8 @@
 package parse
 
 import (
-	"github.com/rancher/norman/types"
-	"github.com/rancher/norman/types/convert"
+	"github.com/rawmind0/norman/types"
+	"github.com/rawmind0/norman/types/convert"
 )
 
 type DefaultSubContextAttributeProvider struct {

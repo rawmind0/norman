@@ -6,8 +6,8 @@ import (
 	"sync"
 	"context"
 
-	"github.com/rancher/norman/clientbase"
-	"github.com/rancher/norman/controller"
+	"github.com/rawmind0/norman/clientbase"
+	"github.com/rawmind0/norman/controller"
 	"k8s.io/client-go/dynamic"
 	"k8s.io/client-go/rest"
 )

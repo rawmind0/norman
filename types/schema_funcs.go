@@ -3,7 +3,7 @@ package types
 import (
 	"net/http"
 
-	"github.com/rancher/norman/types/slice"
+	"github.com/rawmind0/norman/types/slice"
 )
 
 func (s *Schema) MustCustomizeField(name string, f func(f Field) Field) *Schema {

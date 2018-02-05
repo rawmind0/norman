@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/rancher/norman/httperror"
-	"github.com/rancher/norman/types"
+	"github.com/rawmind0/norman/httperror"
+	"github.com/rawmind0/norman/types"
 )
 
 var (

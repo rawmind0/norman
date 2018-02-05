@@ -4,8 +4,8 @@ import (
 	"context"
 	"strings"
 
-	"github.com/rancher/norman/store/proxy"
-	"github.com/rancher/norman/types"
+	"github.com/rawmind0/norman/store/proxy"
+	"github.com/rawmind0/norman/types"
 	apiext "k8s.io/apiextensions-apiserver/pkg/apis/apiextensions/v1beta1"
 	"k8s.io/apiextensions-apiserver/pkg/client/clientset/clientset"
 	apiextclientset "k8s.io/apiextensions-apiserver/pkg/client/clientset/clientset"

@@ -1,8 +1,8 @@
 package factory
 
 import (
-	"github.com/rancher/norman/types"
-	"github.com/rancher/norman/types/mapper"
+	"github.com/rawmind0/norman/types"
+	"github.com/rawmind0/norman/types/mapper"
 	"k8s.io/apimachinery/pkg/apis/meta/v1"
 )
 

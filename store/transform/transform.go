@@ -1,8 +1,8 @@
 package transform
 
 import (
-	"github.com/rancher/norman/types"
-	"github.com/rancher/norman/types/convert"
+	"github.com/rawmind0/norman/types"
+	"github.com/rawmind0/norman/types/convert"
 )
 
 type TransformerFunc func(apiContext *types.APIContext, data map[string]interface{}) (map[string]interface{}, error)

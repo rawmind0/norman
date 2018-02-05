@@ -8,8 +8,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/rancher/norman/clientbase"
-	"github.com/rancher/norman/types/values"
+	"github.com/rawmind0/norman/clientbase"
+	"github.com/rawmind0/norman/types/values"
 	"github.com/sirupsen/logrus"
 	apimeta "k8s.io/apimachinery/pkg/api/meta"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"

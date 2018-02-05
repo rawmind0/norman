@@ -6,8 +6,8 @@ import (
 	"context"
 
 	{{.importPackage}}
-	"github.com/rancher/norman/clientbase"
-	"github.com/rancher/norman/controller"
+	"github.com/rawmind0/norman/clientbase"
+	"github.com/rawmind0/norman/controller"
 	"k8s.io/apimachinery/pkg/api/errors"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 	"k8s.io/apimachinery/pkg/labels"

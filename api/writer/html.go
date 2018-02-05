@@ -3,8 +3,8 @@ package writer
 import (
 	"strings"
 
-	"github.com/rancher/norman/api/builtin"
-	"github.com/rancher/norman/types"
+	"github.com/rawmind0/norman/api/builtin"
+	"github.com/rawmind0/norman/types"
 )
 
 var (

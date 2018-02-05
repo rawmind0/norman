@@ -3,8 +3,8 @@ package handler
 import (
 	"net/http"
 
-	"github.com/rancher/norman/parse"
-	"github.com/rancher/norman/types"
+	"github.com/rawmind0/norman/parse"
+	"github.com/rawmind0/norman/types"
 )
 
 func ListHandler(request *types.APIContext, next types.RequestHandler) error {

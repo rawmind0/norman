@@ -1,8 +1,8 @@
 package builtin
 
 import (
-	"github.com/rancher/norman/store/empty"
-	"github.com/rancher/norman/types"
+	"github.com/rawmind0/norman/store/empty"
+	"github.com/rawmind0/norman/types"
 )
 
 func APIRootFormatter(apiContext *types.APIContext, resource *types.RawResource) {

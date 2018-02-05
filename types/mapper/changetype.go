@@ -1,7 +1,7 @@
 package mapper
 
 import (
-	"github.com/rancher/norman/types"
+	"github.com/rawmind0/norman/types"
 )
 
 type ChangeType struct {

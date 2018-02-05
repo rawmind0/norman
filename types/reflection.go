@@ -8,9 +8,9 @@ import (
 
 	"net/http"
 
-	"github.com/rancher/norman/types/convert"
-	"github.com/rancher/norman/types/definition"
-	"github.com/rancher/norman/types/slice"
+	"github.com/rawmind0/norman/types/convert"
+	"github.com/rawmind0/norman/types/definition"
+	"github.com/rawmind0/norman/types/slice"
 	"github.com/sirupsen/logrus"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 )

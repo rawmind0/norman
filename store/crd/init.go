@@ -5,8 +5,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/rancher/norman/types"
-	"github.com/rancher/norman/types/convert"
+	"github.com/rawmind0/norman/types"
+	"github.com/rawmind0/norman/types/convert"
 	"github.com/sirupsen/logrus"
 	apiext "k8s.io/apiextensions-apiserver/pkg/apis/apiextensions/v1beta1"
 	"k8s.io/apiextensions-apiserver/pkg/client/clientset/clientset"

@@ -1,8 +1,8 @@
 package writer
 
 import (
-	"github.com/rancher/norman/api/builtin"
-	"github.com/rancher/norman/types"
+	"github.com/rawmind0/norman/api/builtin"
+	"github.com/rawmind0/norman/types"
 )
 
 func AddCommonResponseHeader(apiContext *types.APIContext) error {

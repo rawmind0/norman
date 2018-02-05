@@ -13,8 +13,8 @@ import (
 	"text/template"
 
 	"github.com/pkg/errors"
-	"github.com/rancher/norman/types"
-	"github.com/rancher/norman/types/convert"
+	"github.com/rawmind0/norman/types"
+	"github.com/rawmind0/norman/types/convert"
 	"k8s.io/gengo/args"
 	"k8s.io/gengo/examples/deepcopy-gen/generators"
 	"k8s.io/gengo/generator"

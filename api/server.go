@@ -5,15 +5,15 @@ import (
 
 	"sync"
 
-	"github.com/rancher/norman/api/access"
-	"github.com/rancher/norman/api/builtin"
-	"github.com/rancher/norman/api/handler"
-	"github.com/rancher/norman/api/writer"
-	"github.com/rancher/norman/authorization"
-	"github.com/rancher/norman/httperror"
-	"github.com/rancher/norman/parse"
-	"github.com/rancher/norman/store/wrapper"
-	"github.com/rancher/norman/types"
+	"github.com/rawmind0/norman/api/access"
+	"github.com/rawmind0/norman/api/builtin"
+	"github.com/rawmind0/norman/api/handler"
+	"github.com/rawmind0/norman/api/writer"
+	"github.com/rawmind0/norman/authorization"
+	"github.com/rawmind0/norman/httperror"
+	"github.com/rawmind0/norman/parse"
+	"github.com/rawmind0/norman/store/wrapper"
+	"github.com/rawmind0/norman/types"
 )
 
 type StoreWrapper func(types.Store) types.Store

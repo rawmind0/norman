@@ -1,7 +1,7 @@
 package httperror
 
 import (
-	"github.com/rancher/norman/types"
+	"github.com/rawmind0/norman/types"
 	"github.com/sirupsen/logrus"
 )
 

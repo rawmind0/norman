@@ -3,8 +3,8 @@ package authorization
 import (
 	"net/http"
 
-	"github.com/rancher/norman/types"
-	"github.com/rancher/norman/types/slice"
+	"github.com/rawmind0/norman/types"
+	"github.com/rawmind0/norman/types/slice"
 )
 
 type AllAccess struct {

@@ -3,8 +3,8 @@ package mapper
 import (
 	"fmt"
 
-	"github.com/rancher/norman/types"
-	"github.com/rancher/norman/types/definition"
+	"github.com/rawmind0/norman/types"
+	"github.com/rawmind0/norman/types/definition"
 )
 
 type SliceToMap struct {

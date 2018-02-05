@@ -5,10 +5,10 @@ import (
 
 	"strings"
 
-	"github.com/rancher/norman/types"
-	"github.com/rancher/norman/types/convert"
-	"github.com/rancher/norman/types/definition"
-	"github.com/rancher/norman/types/values"
+	"github.com/rawmind0/norman/types"
+	"github.com/rawmind0/norman/types/convert"
+	"github.com/rawmind0/norman/types/definition"
+	"github.com/rawmind0/norman/types/values"
 )
 
 type Move struct {

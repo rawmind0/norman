@@ -5,10 +5,10 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/rancher/norman/api"
-	"github.com/rancher/norman/store/crd"
-	"github.com/rancher/norman/types"
-	"github.com/rancher/norman/types/factory"
+	"github.com/rawmind0/norman/api"
+	"github.com/rawmind0/norman/store/crd"
+	"github.com/rawmind0/norman/types"
+	"github.com/rawmind0/norman/types/factory"
 	"k8s.io/client-go/tools/clientcmd"
 )
 

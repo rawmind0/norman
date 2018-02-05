@@ -6,9 +6,9 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/rancher/norman/httperror"
-	"github.com/rancher/norman/parse"
-	"github.com/rancher/norman/types"
+	"github.com/rawmind0/norman/httperror"
+	"github.com/rawmind0/norman/parse"
+	"github.com/rawmind0/norman/types"
 )
 
 const (

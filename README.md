@@ -20,9 +20,9 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/rancher/norman/generator"
-	"github.com/rancher/norman/server"
-	"github.com/rancher/norman/types"
+	"github.com/rawmind0/norman/generator"
+	"github.com/rawmind0/norman/server"
+	"github.com/rawmind0/norman/types"
 )
 
 type Foo struct {

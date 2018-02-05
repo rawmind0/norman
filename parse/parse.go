@@ -6,9 +6,9 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/rancher/norman/api/builtin"
-	"github.com/rancher/norman/types"
-	"github.com/rancher/norman/urlbuilder"
+	"github.com/rawmind0/norman/api/builtin"
+	"github.com/rawmind0/norman/types"
+	"github.com/rawmind0/norman/urlbuilder"
 )
 
 const (

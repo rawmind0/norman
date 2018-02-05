@@ -5,10 +5,10 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/rancher/norman/store/empty"
-	"github.com/rancher/norman/types"
-	"github.com/rancher/norman/types/definition"
-	"github.com/rancher/norman/types/slice"
+	"github.com/rawmind0/norman/store/empty"
+	"github.com/rawmind0/norman/types"
+	"github.com/rawmind0/norman/types/definition"
+	"github.com/rawmind0/norman/types/slice"
 )
 
 type Store struct {

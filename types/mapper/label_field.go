@@ -1,8 +1,8 @@
 package mapper
 
 import (
-	"github.com/rancher/norman/types"
-	"github.com/rancher/norman/types/values"
+	"github.com/rawmind0/norman/types"
+	"github.com/rawmind0/norman/types/values"
 )
 
 type LabelField struct {

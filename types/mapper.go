@@ -3,8 +3,8 @@ package types
 import (
 	"fmt"
 
-	"github.com/rancher/norman/types/convert"
-	"github.com/rancher/norman/types/definition"
+	"github.com/rawmind0/norman/types/convert"
+	"github.com/rawmind0/norman/types/definition"
 )
 
 type Mapper interface {

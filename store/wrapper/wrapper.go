@@ -1,9 +1,9 @@
 package wrapper
 
 import (
-	"github.com/rancher/norman/httperror"
-	"github.com/rancher/norman/types"
-	"github.com/rancher/norman/types/convert"
+	"github.com/rawmind0/norman/httperror"
+	"github.com/rawmind0/norman/types"
+	"github.com/rawmind0/norman/types/convert"
 )
 
 func Wrap(store types.Store) types.Store {

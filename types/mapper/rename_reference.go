@@ -3,8 +3,8 @@ package mapper
 import (
 	"strings"
 
-	"github.com/rancher/norman/types"
-	"github.com/rancher/norman/types/definition"
+	"github.com/rawmind0/norman/types"
+	"github.com/rawmind0/norman/types/definition"
 )
 
 type RenameReference struct {

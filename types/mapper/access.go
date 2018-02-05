@@ -3,7 +3,7 @@ package mapper
 import (
 	"strings"
 
-	"github.com/rancher/norman/types"
+	"github.com/rawmind0/norman/types"
 )
 
 type Access struct {

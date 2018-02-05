@@ -1,7 +1,7 @@
 package types
 
 import (
-	"github.com/rancher/norman/types/convert"
+	"github.com/rawmind0/norman/types/convert"
 )
 
 var (

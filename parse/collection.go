@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/rancher/norman/types"
+	"github.com/rawmind0/norman/types"
 )
 
 var (

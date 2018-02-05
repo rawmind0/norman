@@ -1,7 +1,7 @@
 package empty
 
 import (
-	"github.com/rancher/norman/types"
+	"github.com/rawmind0/norman/types"
 )
 
 type Store struct {

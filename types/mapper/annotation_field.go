@@ -3,9 +3,9 @@ package mapper
 import (
 	"encoding/json"
 
-	"github.com/rancher/norman/types"
-	"github.com/rancher/norman/types/convert"
-	"github.com/rancher/norman/types/values"
+	"github.com/rawmind0/norman/types"
+	"github.com/rawmind0/norman/types/convert"
+	"github.com/rawmind0/norman/types/values"
 )
 
 type AnnotationField struct {

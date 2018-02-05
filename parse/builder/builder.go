@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/rancher/norman/httperror"
-	"github.com/rancher/norman/types"
-	"github.com/rancher/norman/types/convert"
-	"github.com/rancher/norman/types/definition"
+	"github.com/rawmind0/norman/httperror"
+	"github.com/rawmind0/norman/types"
+	"github.com/rawmind0/norman/types/convert"
+	"github.com/rawmind0/norman/types/definition"
 	"k8s.io/apimachinery/pkg/util/validation"
 )
 
